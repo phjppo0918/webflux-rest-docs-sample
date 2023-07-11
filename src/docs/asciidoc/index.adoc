@@ -1,0 +1,14 @@
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+= Battle
+
+=== 샘플
+
+operation::sample[snippets='http-request,http-response']
+operation::header-sample[snippets='http-request,http-response']
+operation::post-sample[snippets='http-request,http-response']
